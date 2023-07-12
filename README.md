@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raghunandhan muthuramalingam
-- 👀 I’m interested in Javascript and front-end
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Javascript
+- 👀 I’m interested in Python and front-end
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me raghunandhan.muthuramalingam@gmail.com
 
 <!---
